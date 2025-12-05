@@ -1,0 +1,5 @@
+{
+  "name": "Corine Land Cover Colombia",
+  "description": "Herramienta interactiva para visualizar y consultar el catálogo de cobertura de la tierra (Corine Land Cover) para Colombia, con generación de imágenes y descripciones asistidas por IA.",
+  "requestFramePermissions": []
+}
